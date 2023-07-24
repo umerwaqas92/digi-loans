@@ -11,11 +11,27 @@
       "title": "Instant Business Loan",
       "link": "https://digi-loans.com/services.html"
       
+      
     },
     {
       "image": "https://digi-loans.com/images/instantpersonalloan.jpeg",
       "title": "Instant Personal Loan",
-      "link": "https://digi-loans.com/instantpersonal.html"
+      "link": "https://digi-loans.com/instantpersonal.html",
+      "":[{
+      "title": "IIFL INSTANT PERSONAL LOAN",
+      "image": "https://digi-loans.com/images/icons/iiflinstant.jpg",
+      "link": "https://iifl-loans.finbox.in/?partnerCode=DI_OTEG9Z"
+    },
+    {
+      "title": "Home Credit",
+      "image": "https://digi-loans.com/images/icons/homecredit.jpg",
+      "link": "https://wee.bnking.in/NTE5NTky"
+    },
+    {
+      "title": "SmartCoin",
+      "image": "https://digi-loans.com/images/icons/smartcoin.jpg",
+      "link": "https://wee.bnking.in/ZjY3NTA0"
+    }]
      
     },
     {
@@ -325,20 +341,6 @@
       "title": "BAJAJ Finserv Instant Business Loan",
       "image": "https://digi-loans.com/images/icons/bajajfinserv.jpg",
       "link": "https://www.bajajfinservmarkets.in/apply-for-business-loan/"
-    },{
-      "title": "IIFL INSTANT PERSONAL LOAN",
-      "image": "https://digi-loans.com/images/icons/iiflinstant.jpg",
-      "link": "https://iifl-loans.finbox.in/?partnerCode=DI_OTEG9Z"
-    },
-    {
-      "title": "Home Credit",
-      "image": "https://digi-loans.com/images/icons/homecredit.jpg",
-      "link": "https://wee.bnking.in/NTE5NTky"
-    },
-    {
-      "title": "SmartCoin",
-      "image": "https://digi-loans.com/images/icons/smartcoin.jpg",
-      "link": "https://wee.bnking.in/ZjY3NTA0"
     },
     {
       "title": "InCred",
